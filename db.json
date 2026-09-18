@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Silent Ocean",
+      "author": "James Carter",
+      "price": 14.99,
+      "category": "Fiction",
+      "stock": 20,
+      "description": "A mysterious adventure story about a young explorer who discovers secrets hidden beneath a forgotten ocean.",
+      "image": "https://example.com/silent-ocean.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Learning JavaScript",
+      "author": "David Miller",
+      "price": 29.99,
+      "category": "Programming",
+      "stock": 15,
+      "description": "A beginner-friendly guide to JavaScript covering variables, functions, arrays, objects, DOM manipulation, and modern JavaScript concepts.",
+      "image": "https://example.com/learning-javascript.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Power of Habits",
+      "author": "Emily Watson",
+      "price": 18.99,
+      "category": "Self Development",
+      "stock": 25,
+      "description": "An inspiring book that explains how habits are formed and provides practical ideas for building better daily routines.",
+      "image": "https://example.com/power-of-habits.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Journey Through Space",
+      "author": "Michael Anderson",
+      "price": 22.99,
+      "category": "Science",
+      "stock": 12,
+      "description": "An exciting introduction to planets, stars, galaxies, black holes, and the mysteries of the universe.",
+      "image": "https://example.com/journey-through-space.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Hidden Garden",
+      "author": "Sarah Wilson",
+      "price": 16.99,
+      "category": "Romance",
+      "stock": 18,
+      "description": "A heartwarming story of friendship, love, and unexpected discoveries surrounding a beautiful hidden garden.",
+      "image": "https://example.com/hidden-garden.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Mastering React",
+      "author": "Daniel Brown",
+      "price": 34.99,
+      "category": "Programming",
+      "stock": 10,
+      "description": "A practical guide to building modern web applications with React, covering components, props, state, hooks, and API integration.",
+      "image": "https://example.com/mastering-react.jpg"
+    }
+  ]
+}
